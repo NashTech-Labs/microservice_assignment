@@ -26,7 +26,7 @@ Microservices
    ### Make Payment for an Order
    ### Update Payment for an Order
    
-   Order Service shoul communicate with the Payment Service in Asynchronous way using Kafka.
+   Order Service should communicate with the Payment Service in Asynchronous way using Kafka.
 
 API Documentation Through Swagger should exist for all the Services
 
